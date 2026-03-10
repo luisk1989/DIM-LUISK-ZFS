@@ -1,0 +1,7 @@
+{
+  "name": "Sistema DIM ZFSANTANDER",
+  "description": "Una aplicación avanzada impulsada por IA para extraer información estructurada de formularios, recibos y documentos mediante el análisis de casillas y campos en imágenes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
